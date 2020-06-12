@@ -1,6 +1,9 @@
+welcome to my site sanjay
+
+<br />
 <pre>
 <?php
-welcome to my site sanjay
+
 
 print `ifconfig`;
 ?>
